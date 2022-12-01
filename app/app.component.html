@@ -1,0 +1,73 @@
+<p>
+  <label>Class</label>
+  <input type="text" [(ngModel)]="classnumber" value="{{ classnumber }}" />
+  <label>Roll Number</label>
+  <input type="text" [(ngModel)]="rollNumber" value="{{ rollNumber }}" />
+  <button (click)="checkResults()">Submit</button>
+</p>
+
+<!--<div>{{jsonData | json}}</div>-->
+
+<title></title>
+<h2 style="text-align: center;">V. S Memorial Sunrise Public School</h2>
+
+<p style="text-align: center;">Quaterly Result-2022</p>
+
+<p style="text-align: center;">
+  <img
+    alt="Logo"
+    src="https://vsmsps.com/assets/images/school_logo1.png"
+    style="width: 100px; height: 100px;"
+  />
+</p>
+
+<div *ngIf="studentResultQ">
+  <p>
+    <strong>Student Name: {{ studentName }}</strong>
+  </p>
+
+  <p>
+    <strong>Student Roll No: {{ rollNumber }}</strong>
+  </p>
+
+  <p>
+    <strong>Student Class: {{ classnumber }}</strong
+    ><br />
+    &nbsp;
+  </p>
+
+  <p style="text-align: center;">
+    <br />
+    &nbsp;
+  </p>
+
+  <table
+    align="center"
+    border="2"
+    cellpadding="1"
+    cellspacing="1"
+    style="width:500px;"
+  >
+    <caption>
+      Exam Result
+    </caption>
+    <tbody>
+      <tr>
+        <th scope="row">Subject</th>
+        <th>MarksQ</th>
+        <th>MarksH</th>
+      </tr>
+      <tr *ngFor="let item of studentResultQ; let i = index">
+        <th scope="row">{{ item.name }}</th>
+        <td>{{ item.value }}</td>
+        <td>{{ studentResultH[i].value }}</td>
+      </tr>
+      <!-- <tr *ngFor="let item of studentResultH">
+        <th scope="row">{{ item.name }}</th>
+        <td>{{ item.value }}</td>
+      </tr> -->
+    </tbody>
+  </table>
+
+  <hr />
+</div>
