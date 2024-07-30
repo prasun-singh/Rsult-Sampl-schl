@@ -1749,8 +1749,7 @@
       "Hindi(W)": 28,
       "Hindi(O)": 30,
       "Math(W)": 31,
-      "Math(O)": 35,
-      "Art": "B"
+      "Math(O)": 35
     },
     {
       "RollNo": 2,
@@ -1760,8 +1759,7 @@
       "Hindi(W)": 38,
       "Hindi(O)": 40,
       "Math(W)": 46,
-      "Math(O)": 45,
-      "Art": "A"
+      "Math(O)": 45
     },
     {
       "RollNo": 3,
@@ -1771,8 +1769,7 @@
       "Hindi(W)": 45,
       "Hindi(O)": 35,
       "Math(W)": 38,
-      "Math(O)": 40,
-      "Art": "B"
+      "Math(O)": 40
     },
     {
       "RollNo": 4,
@@ -1782,8 +1779,7 @@
       "Hindi(W)": 49,
       "Hindi(O)": 40,
       "Math(W)": 38,
-      "Math(O)": 40,
-      "Art": "A"
+      "Math(O)": 40
     },
     {
       "RollNo": 5,
@@ -1793,8 +1789,7 @@
       "Hindi(W)": 43,
       "Hindi(O)": 35,
       "Math(W)": 42,
-      "Math(O)": 35,
-      "Art": "A"
+      "Math(O)": 35
     },
     {
       "RollNo": 6,
@@ -1804,8 +1799,7 @@
       "Hindi(W)": 43,
       "Hindi(O)": 45,
       "Math(W)": 45,
-      "Math(O)": 46,
-      "Art": "A"
+      "Math(O)": 46
     },
     {
       "RollNo": 7,
@@ -1815,8 +1809,7 @@
       "Hindi(W)": 48,
       "Hindi(O)": 40,
       "Math(W)": 48,
-      "Math(O)": 48,
-      "Art": "B"
+      "Math(O)": 48
     },
     {
       "RollNo": 8,
@@ -1826,8 +1819,7 @@
       "Hindi(W)": 50,
       "Hindi(O)": 45,
       "Math(W)": 50,
-      "Math(O)": 45,
-      "Art": "A"
+      "Math(O)": 45
     },
     {
       "RollNo": 9,
@@ -1837,8 +1829,7 @@
       "Hindi(W)": 43,
       "Hindi(O)": "A",
       "Math(W)": "A",
-      "Math(O)": "A",
-      "Art": "A"
+      "Math(O)": "A"
     },
     {
       "RollNo": 10,
@@ -1848,8 +1839,7 @@
       "Hindi(W)": 50,
       "Hindi(O)": 48,
       "Math(W)": 48,
-      "Math(O)": 49,
-      "Art": "A"
+      "Math(O)": 49
     },
     {
       "RollNo": 11,
@@ -1859,8 +1849,7 @@
       "Hindi(W)": 48,
       "Hindi(O)": 40,
       "Math(W)": 48,
-      "Math(O)": 40,
-      "Art": "A"
+      "Math(O)": 40
     },
     {
       "RollNo": 12,
@@ -1870,8 +1859,7 @@
       "Hindi(W)": "A",
       "Hindi(O)": "A",
       "Math(W)": 41,
-      "Math(O)": 40,
-      "Art": "C"
+      "Math(O)": 40
     },
     {
       "RollNo": 13,
@@ -1881,8 +1869,7 @@
       "Hindi(W)": 46,
       "Hindi(O)": 40,
       "Math(W)": 49,
-      "Math(O)": 40,
-      "Art": "A"
+      "Math(O)": 40
     },
     {
       "RollNo": 14,
@@ -1892,8 +1879,7 @@
       "Hindi(W)": 46,
       "Hindi(O)": 40,
       "Math(W)": 45,
-      "Math(O)": 35,
-      "Art": "B"
+      "Math(O)": 35
     },
     {
       "RollNo": 15,
@@ -1903,8 +1889,7 @@
       "Hindi(W)": 48,
       "Hindi(O)": 41,
       "Math(W)": 47,
-      "Math(O)": 40,
-      "Art": "B"
+      "Math(O)": 40
     },
     {
       "RollNo": 16,
@@ -1914,8 +1899,7 @@
       "Hindi(W)": 39,
       "Hindi(O)": 40,
       "Math(W)": 44,
-      "Math(O)": 40,
-      "Art": "B"
+      "Math(O)": 40
     },
     {
       "RollNo": 17,
@@ -1925,8 +1909,7 @@
       "Hindi(W)": 40,
       "Hindi(O)": 35,
       "Math(W)": 49,
-      "Math(O)": 40,
-      "Art": "A"
+      "Math(O)": 40
     },
     {
       "RollNo": 18,
@@ -1936,8 +1919,7 @@
       "Hindi(W)": 47,
       "Hindi(O)": 36,
       "Math(W)": 48,
-      "Math(O)": 35,
-      "Art": "A"
+      "Math(O)": 35
     },
     {
       "RollNo": 19,
@@ -1947,8 +1929,7 @@
       "Hindi(W)": "A",
       "Hindi(O)": "A",
       "Math(W)": 40,
-      "Math(O)": 40,
-      "Art": "A"
+      "Math(O)": 40
     },
     {
       "RollNo": 20,
@@ -1958,8 +1939,7 @@
       "Hindi(W)": 48,
       "Hindi(O)": 40,
       "Math(W)": 49,
-      "Math(O)": 45,
-      "Art": "B"
+      "Math(O)": 45
     },
     {
       "RollNo": 21,
@@ -1969,8 +1949,7 @@
       "Hindi(W)": 47,
       "Hindi(O)": 40,
       "Math(W)": 49,
-      "Math(O)": 40,
-      "Art": "S"
+      "Math(O)": 40
     },
     {
       "RollNo": 22,
@@ -1980,8 +1959,7 @@
       "Hindi(W)": 49,
       "Hindi(O)": 40,
       "Math(W)": 42,
-      "Math(O)": 40,
-      "Art": "A"
+      "Math(O)": 40
     },
     {
       "RollNo": 23,
@@ -1991,8 +1969,7 @@
       "Hindi(W)": 49,
       "Hindi(O)": 38,
       "Math(W)": 49,
-      "Math(O)": 40,
-      "Art": "B"
+      "Math(O)": 40
     },
     {
       "RollNo": 24,
@@ -2002,8 +1979,7 @@
       "Hindi(W)": 49,
       "Hindi(O)": 40,
       "Math(W)": 43,
-      "Math(O)": 40,
-      "Art": "B"
+      "Math(O)": 40
     },
     {
       "RollNo": 25,
@@ -2013,8 +1989,7 @@
       "Hindi(W)": 49,
       "Hindi(O)": 47,
       "Math(W)": 48,
-      "Math(O)": 40,
-      "Art": "S"
+      "Math(O)": 40
     },
     {
       "RollNo": 26,
@@ -2024,8 +1999,7 @@
       "Hindi(W)": "A",
       "Hindi(O)": "A",
       "Math(W)": "A",
-      "Math(O)": "A",
-      "Art": "S"
+      "Math(O)": "A"
     },
     {
       "RollNo": 27,
@@ -2035,8 +2009,7 @@
       "Hindi(W)": 46,
       "Hindi(O)": 40,
       "Math(W)": 49,
-      "Math(O)": 40,
-      "Art": "S"
+      "Math(O)": 40
     },
     {
       "RollNo": 28,
@@ -2046,8 +2019,7 @@
       "Hindi(W)": 45,
       "Hindi(O)": 40,
       "Math(W)": 46,
-      "Math(O)": 35,
-      "Art": "A"
+      "Math(O)": 35
     },
     {
       "RollNo": 29,
@@ -2057,8 +2029,7 @@
       "Hindi(W)": "A",
       "Hindi(O)": "A",
       "Math(W)": "A",
-      "Math(O)": "A",
-      "Art": "S"
+      "Math(O)": "A"
     }
   ],
   "UKG": [
