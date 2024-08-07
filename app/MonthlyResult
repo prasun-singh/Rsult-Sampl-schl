@@ -3142,7 +3142,7 @@
   ],
   "7E": [
     {
-      "Roll No.": 1,
+      "RollNo": 1,
       "Name": "Riya",
       "English": 18,
       "Hindi": 16,
@@ -3156,7 +3156,7 @@
       "Obtained Marks": 151
     },
     {
-      "Roll No.": 2,
+      "RollNo": 2,
       "Name": "Divyanshu",
       "English": 19,
       "Hindi": 16,
@@ -3170,7 +3170,7 @@
       "Obtained Marks": 109
     },
     {
-      "Roll No.": 3,
+      "RollNo": 3,
       "Name": "Aditya",
       "English": "ab",
       "Hindi": "ab",
@@ -3184,7 +3184,7 @@
       "Obtained Marks": 101
     },
     {
-      "Roll No.": 4,
+      "RollNo": 4,
       "Name": "Naitik",
       "English": 18,
       "Hindi": 12,
@@ -3198,7 +3198,7 @@
       "Obtained Marks": 126
     },
     {
-      "Roll No.": 5,
+      "RollNo": 5,
       "Name": "Nidhi",
       "English": 18,
       "Hindi": 19,
@@ -3212,7 +3212,7 @@
       "Obtained Marks": 153
     },
     {
-      "Roll No.": 6,
+      "RollNo": 6,
       "Name": "Aryan",
       "English": "ab",
       "Hindi": "ab",
@@ -3226,7 +3226,7 @@
       "Obtained Marks": 0
     },
     {
-      "Roll No.": 7,
+      "RollNo": 7,
       "Name": "Shikha",
       "English": 17,
       "Hindi": 10,
