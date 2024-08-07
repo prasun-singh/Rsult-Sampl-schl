@@ -2389,7 +2389,7 @@
   "LKG": [
     {
       "RollNo": 1,
-      "         Name": "Divyansh Prasad",
+      "Name": "Divyansh Prasad",
       "English": "ab",
       "Hindi": "ab",
       "Maths": 12,
@@ -2399,7 +2399,7 @@
     },
     {
       "RollNo": 2,
-      "         Name": "Saumya Shukla",
+      "Name": "Saumya Shukla",
       "English": 18,
       "Hindi": 19,
       "Maths": 20,
@@ -2409,7 +2409,7 @@
     },
     {
       "RollNo": 3,
-      "         Name": "Pariniti",
+      "Name": "Pariniti",
       "English": "ab",
       "Hindi": "ab",
       "Maths": "ab",
@@ -2419,7 +2419,7 @@
     },
     {
       "RollNo": 4,
-      "         Name": "Priyanshi Singh",
+      "Name": "Priyanshi Singh",
       "English": 16,
       "Hindi": 19,
       "Maths": 12,
@@ -2429,7 +2429,7 @@
     },
     {
       "RollNo": 5,
-      "         Name": "Jivansh Gaur",
+      "Name": "Jivansh Gaur",
       "English": "ab",
       "Hindi": 19,
       "Maths": 9,
@@ -2439,7 +2439,7 @@
     },
     {
       "RollNo": 6,
-      "         Name": "Abhinav Singh",
+      "Name": "Abhinav Singh",
       "English": "ab",
       "Hindi": "ab",
       "Maths": "ab",
@@ -2449,7 +2449,7 @@
     },
     {
       "RollNo": 7,
-      "         Name": "Rishi Gautam",
+      "Name": "Rishi Gautam",
       "English": 19,
       "Hindi": 20,
       "Maths": 18,
@@ -2459,7 +2459,7 @@
     },
     {
       "RollNo": 8,
-      "         Name": "Ayansh Singh",
+      "Name": "Ayansh Singh",
       "English": "ab",
       "Hindi": 18,
       "Maths": 18,
@@ -2469,7 +2469,7 @@
     },
     {
       "RollNo": 9,
-      "         Name": "Adarsh Prajapati",
+      "Name": "Adarsh Prajapati",
       "English": 18,
       "Hindi": 16,
       "Maths": 18,
@@ -2479,7 +2479,7 @@
     },
     {
       "RollNo": 10,
-      "         Name": "Ayushi Verma",
+      "Name": "Ayushi Verma",
       "English": "ab",
       "Hindi": "ab",
       "Maths": "ab",
@@ -2489,7 +2489,7 @@
     },
     {
       "RollNo": 11,
-      "         Name": "Shivansh Prajapati",
+      "Name": "Shivansh Prajapati",
       "English": 16,
       "Hindi": 18,
       "Maths": "ab",
@@ -2499,7 +2499,7 @@
     },
     {
       "RollNo": 12,
-      "         Name": "Niddhi Prajapati",
+      "Name": "Niddhi Prajapati",
       "English": 18,
       "Hindi": 20,
       "Maths": 17,
@@ -2509,7 +2509,7 @@
     },
     {
       "RollNo": 13,
-      "         Name": "Araman Alam",
+      "Name": "Araman Alam",
       "English": "ab",
       "Hindi": "ab",
       "Maths": 10,
@@ -2519,7 +2519,7 @@
     },
     {
       "RollNo": 14,
-      "         Name": "Shivansh Gupta",
+      "Name": "Shivansh Gupta",
       "English": "ab",
       "Hindi": "ab",
       "Maths": "ab",
@@ -2529,7 +2529,7 @@
     },
     {
       "RollNo": 15,
-      "         Name": "Riddhi Gupta",
+      "Name": "Riddhi Gupta",
       "English": 9,
       "Hindi": 6,
       "Maths": 13,
@@ -2539,7 +2539,7 @@
     },
     {
       "RollNo": 16,
-      "         Name": "Israt",
+      "Name": "Israt",
       "English": 17,
       "Hindi": 18,
       "Maths": 18,
@@ -2549,7 +2549,7 @@
     },
     {
       "RollNo": 17,
-      "         Name": "Prachi Singh",
+      "Name": "Prachi Singh",
       "English": 18,
       "Hindi": 4,
       "Maths": 16,
@@ -2559,7 +2559,7 @@
     },
     {
       "RollNo": 18,
-      "         Name": "Kartik Rana",
+      "Name": "Kartik Rana",
       "English": 13,
       "Hindi": 10,
       "Maths": 11,
@@ -2569,7 +2569,7 @@
     },
     {
       "RollNo": 19,
-      "         Name": "Rudra Pratap Singh",
+      "Name": "Rudra Pratap Singh",
       "English": 19,
       "Hindi": 16,
       "Maths": 19,
@@ -2579,7 +2579,7 @@
     },
     {
       "RollNo": 20,
-      "         Name": "Shivansh Singh",
+      "Name": "Shivansh Singh",
       "English": 18,
       "Hindi": 18,
       "Maths": 13,
@@ -2589,7 +2589,7 @@
     },
     {
       "RollNo": 21,
-      "         Name": "Suraj verma",
+      "Name": "Suraj verma",
       "English": 18,
       "Hindi": 18,
       "Maths": "ab",
@@ -2599,7 +2599,7 @@
     },
     {
       "RollNo": 22,
-      "         Name": "Jayati Dwivedi",
+      "Name": "Jayati Dwivedi",
       "English": "ab",
       "Hindi": 20,
       "Maths": "ab",
@@ -2609,7 +2609,7 @@
     },
     {
       "RollNo": 23,
-      "         Name": "Anant Shukla",
+      "Name": "Anant Shukla",
       "English": "ab",
       "Hindi": "ab",
       "Maths": 19,
@@ -2619,7 +2619,7 @@
     },
     {
       "RollNo": 24,
-      "         Name": "Sahana Bano",
+      "Name": "Sahana Bano",
       "English": 17,
       "Hindi": 20,
       "Maths": 20,
@@ -2629,7 +2629,7 @@
     },
     {
       "RollNo": 25,
-      "         Name": "Moh. Juhaib",
+      "Name": "Moh. Juhaib",
       "English": 17,
       "Hindi": "ab",
       "Maths": 14,
@@ -2639,7 +2639,7 @@
     },
     {
       "RollNo": 26,
-      "         Name": "Chahat Gautam",
+      "Name": "Chahat Gautam",
       "English": 14,
       "Hindi": 18,
       "Maths": "ab",
@@ -2649,7 +2649,7 @@
     },
     {
       "RollNo": 27,
-      "         Name": "Aniket Singh",
+      "Name": "Aniket Singh",
       "English": 18,
       "Hindi": 19,
       "Maths": 18,
@@ -2659,7 +2659,7 @@
     },
     {
       "RollNo": 28,
-      "         Name": "Janvi",
+      "Name": "Janvi",
       "English": 19,
       "Hindi": "ab",
       "Maths": "ab",
@@ -2669,7 +2669,7 @@
     },
     {
       "RollNo": 29,
-      "         Name": "Nandini Maurya",
+      "Name": "Nandini Maurya",
       "English": 17,
       "Hindi": 20,
       "Maths": 14,
@@ -2679,7 +2679,7 @@
     },
     {
       "RollNo": 30,
-      "         Name": "Akashans Patel",
+      "Name": "Akashans Patel",
       "English": "ab",
       "Hindi": "ab",
       "Maths": "ab",
@@ -2689,7 +2689,7 @@
     },
     {
       "RollNo": 31,
-      "         Name": "Noor Bano",
+      "Name": "Noor Bano",
       "English": "ab",
       "Hindi": "ab",
       "Maths": "ab",
@@ -2699,7 +2699,7 @@
     },
     {
       "RollNo": 32,
-      "         Name": "Aradhya Pal",
+      "Name": "Aradhya Pal",
       "English": 18,
       "Hindi": "ab",
       "Maths": 14,
@@ -2709,7 +2709,7 @@
     },
     {
       "RollNo": 33,
-      "         Name": "Iqra Bano",
+      "Name": "Iqra Bano",
       "English": 11,
       "Hindi": 18,
       "Maths": "ab",
