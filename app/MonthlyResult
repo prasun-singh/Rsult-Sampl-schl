@@ -399,10 +399,12 @@
       "Hindi ": 5,
       "Math ": 12,
       "Science": 9,
-      "GK": "ab",
+      "GK": 12,
       "SST": "ab",
+      "Computer": "ab",
+      "Sanskrit": 10,
       "Total Marks": 160,
-      "Obtained Marks": 37
+      "Obtained Marks": 59
     },
     {
       "RollNo": 9,
@@ -579,12 +581,12 @@
       "Hindi ": 10,
       "Math ": 17,
       "Science": 17,
-      "GK": 7,
+      "GK": 16,
       "SST": 7,
       "Computer": 0,
-      "Sanskrit": "ab",
+      "Sanskrit": 14,
       "Total Marks": 160,
-      "Obtained Marks": 68
+      "Obtained Marks": 91
     },
     {
       "RollNo": 22,
@@ -607,12 +609,12 @@
       "Hindi ": 2,
       "Math ": "ab",
       "Science": "ab",
-      "GK": 11,
+      "GK": 13,
       "SST": 11,
       "Computer": 4,
-      "Sanskrit": "ab",
+      "Sanskrit": 16,
       "Total Marks": 160,
-      "Obtained Marks": 32
+      "Obtained Marks": 50
     },
     {
       "RollNo": 24,
@@ -621,12 +623,12 @@
       "Hindi ": "ab",
       "Math ": 12,
       "Science": 15,
-      "GK": "ab",
+      "GK": 13,
       "SST": "ab",
       "Computer": "ab",
-      "Sanskrit": "ab",
+      "Sanskrit": 12,
       "Total Marks": 160,
-      "Obtained Marks": 27
+      "Obtained Marks": 52
     },
     {
       "RollNo": 25,
@@ -660,7 +662,7 @@
   "3": [
     {
       "RollNo": 1,
-      "Name": "Sristi Pal",
+      "         Name": "Sristi Pal",
       "English": 13,
       "Hindi": 13,
       "Math ": 15,
@@ -674,7 +676,7 @@
     },
     {
       "RollNo": 2,
-      "Name": "Saumya Prajapati",
+      "         Name": "Saumya Prajapati",
       "English": 14,
       "Hindi": 10,
       "Math ": 20,
@@ -688,7 +690,7 @@
     },
     {
       "RollNo": 3,
-      "Name": "Shanvi Singh",
+      "         Name": "Shanvi Singh",
       "English": 10,
       "Hindi": 13,
       "Math ": 19,
@@ -702,7 +704,7 @@
     },
     {
       "RollNo": 4,
-      "Name": "Khushi Prajapati",
+      "         Name": "Khushi Prajapati",
       "English": 12,
       "Hindi": 13,
       "Math ": 18,
@@ -716,7 +718,7 @@
     },
     {
       "RollNo": 5,
-      "Name": "Sourya Kumar",
+      "         Name": "Sourya Kumar",
       "English": 10,
       "Hindi": 15,
       "Math ": "ab",
@@ -730,7 +732,7 @@
     },
     {
       "RollNo": 6,
-      "Name": "Priyanshu Sharma",
+      "         Name": "Priyanshu Sharma",
       "English": 13,
       "Hindi": 15,
       "Science": "ab",
@@ -743,7 +745,7 @@
     },
     {
       "RollNo": 7,
-      "Name": "Swara Srivastava",
+      "         Name": "Swara Srivastava",
       "English": 15,
       "Hindi": 15,
       "Math ": 20,
@@ -757,21 +759,21 @@
     },
     {
       "RollNo": 8,
-      "Name": "Abhinav Gautam",
+      "         Name": "Abhinav Gautam",
       "English": 2,
       "Hindi": 5,
       "Math ": 10,
       "Science": 7,
-      "SST": 23,
+      "SST": 3,
       "Sankrit": 12,
       "Computer": 7,
       "GK": 4,
       "Total Marks": 160,
-      "Obtained Marks": 70
+      "Obtained Marks": 50
     },
     {
       "RollNo": 9,
-      "Name": "Pradeep Gupta",
+      "         Name": "Pradeep Gupta",
       "English": 3,
       "Hindi": 2,
       "Math ": 10,
@@ -780,26 +782,25 @@
       "Sankrit": 9,
       "Computer": 2,
       "GK": 2,
-      "Total Marks": 160,
-      "Obtained Marks": 35
+      "Total Marks": 160
     },
     {
       "RollNo": 10,
-      "Name": "Aliza Fatima",
+      "         Name": "Aliza Fatima",
       "English": 9,
       "Hindi": 15,
       "Math ": 20,
       "Science": 19,
       "SST": 18,
-      "Sankrit": 16,
+      "Sankrit": 12,
       "Computer": 12,
       "GK": 14,
       "Total Marks": 160,
-      "Obtained Marks": 123
+      "Obtained Marks": 119
     },
     {
       "RollNo": 11,
-      "Name": "Yash Kumar",
+      "         Name": "Yash Kumar",
       "English": "ab",
       "Hindi": "ab",
       "Math ": "ab",
@@ -813,7 +814,7 @@
     },
     {
       "RollNo": 12,
-      "Name": "Anmol Gupta",
+      "         Name": "Anmol Gupta",
       "English": 5,
       "Hindi": 7,
       "Math ": 13,
@@ -827,35 +828,35 @@
     },
     {
       "RollNo": 13,
-      "Name": "Chandani Singh",
+      "         Name": "Chandani Singh",
       "English": 12,
       "Hindi": 10,
       "Math ": 15,
       "Science": 9,
       "SST": 7,
-      "Sankrit": 9,
-      "Computer": "ab",
+      "Sankrit": "ab",
+      "Computer": 14,
       "GK": "ab",
       "Total Marks": 160,
-      "Obtained Marks": 62
+      "Obtained Marks": 67
     },
     {
       "RollNo": 14,
-      "Name": "Aditya Tiwari",
+      "         Name": "Aditya Tiwari",
       "English": 10,
       "Hindi": 11,
-      "Math ": "ab",
-      "Science": "ab",
-      "SST": "ab",
-      "Sankrit": "ab",
-      "Computer": "ab",
-      "GK": "ab",
+      "Math ": 17,
+      "Science": 14,
+      "SST": 12,
+      "Sankrit": 10,
+      "Computer": 13,
+      "GK": 16,
       "Total Marks": 160,
-      "Obtained Marks": 21
+      "Obtained Marks": 103
     },
     {
       "RollNo": 15,
-      "Name": "Raunak",
+      "         Name": "Raunak",
       "English": "ab",
       "Hindi": "ab",
       "Math ": "ab",
@@ -869,8 +870,8 @@
     },
     {
       "RollNo": 16,
-      "Name": "Ansh",
-      "English": 10,
+      "         Name": "Ansh",
+      "English": 6,
       "Hindi": 6,
       "Math ": "ab",
       "Science": "ab",
@@ -879,13 +880,13 @@
       "Computer": "ab",
       "GK": "ab",
       "Total Marks": 160,
-      "Obtained Marks": 16
+      "Obtained Marks": 12
     }
   ],
   "4": [
     {
       "RollNo": 1,
-      "Name": "Ananya Singh",
+      "         Name": "Ananya Singh",
       "English": 14,
       "Hindi": 18,
       "Math ": 20,
@@ -899,35 +900,35 @@
     },
     {
       "RollNo": 2,
-      "Name": "Siddhant Singh",
+      "         Name": "Siddhant Singh",
       "English": 10,
       "Hindi": 17,
       "Math ": 19,
-      "Science": "ab",
-      "SST": "ab",
-      "Sankrit": "ab",
-      "Computer": "ab",
-      "GK": "ab",
+      "Science": 16,
+      "SST": 19,
+      "Sankrit": 10,
+      "Computer": 10,
+      "GK": 12,
       "Total Marks": 160,
-      "Obtained Marks": 46
+      "Obtained Marks": 113
     },
     {
       "RollNo": 3,
-      "Name": "Arya Singh",
+      "         Name": "Arya Singh",
       "English": 14,
       "Hindi": 8,
       "Math ": 19,
-      "Science": "ab",
-      "SST": "ab",
+      "Science": 10,
+      "SST": 16,
       "Sankrit": "ab",
       "Computer": "ab",
-      "GK": "ab",
+      "GK": 14,
       "Total Marks": 160,
-      "Obtained Marks": 41
+      "Obtained Marks": 81
     },
     {
       "RollNo": 4,
-      "Name": "Altmas",
+      "         Name": "Altmas",
       "English": 7,
       "Hindi": 10,
       "Math ": 19,
@@ -941,7 +942,7 @@
     },
     {
       "RollNo": 5,
-      "Name": "Divyansh Gupta",
+      "         Name": "Divyansh Gupta",
       "English": 12,
       "Hindi": 10,
       "Math ": 17,
@@ -955,7 +956,7 @@
     },
     {
       "RollNo": 6,
-      "Name": "Priyanshu Singh",
+      "         Name": "Priyanshu Singh",
       "English": "ab",
       "Hindi": "ab",
       "Math ": "ab",
@@ -969,7 +970,7 @@
     },
     {
       "RollNo": 7,
-      "Name": "Astha Dwivedi",
+      "         Name": "Astha Dwivedi",
       "English": "ab",
       "Hindi": "ab",
       "Math ": "ab",
@@ -983,21 +984,21 @@
     },
     {
       "RollNo": 8,
-      "Name": "Aarav Singh",
+      "         Name": "Aarav Singh",
       "English": "ab",
       "Hindi": "ab",
       "Math ": "ab",
       "Science": "ab",
       "SST": "ab",
-      "Sankrit": "ab",
+      "Sankrit": 10,
       "Computer": "ab",
-      "GK": "ab",
+      "GK": 4,
       "Total Marks": 160,
-      "Obtained Marks": 0
+      "Obtained Marks": 14
     },
     {
       "RollNo": 9,
-      "Name": "Ankit Prajapati",
+      "         Name": "Ankit Prajapati",
       "English": 5,
       "Hindi": 7,
       "Math ": 18,
@@ -1011,7 +1012,7 @@
     },
     {
       "RollNo": 10,
-      "Name": "Amber fatima",
+      "         Name": "Amber fatima",
       "English": 10,
       "Hindi": 15,
       "Math ": 17,
@@ -1025,21 +1026,21 @@
     },
     {
       "RollNo": 11,
-      "Name": "Pratima ",
-      "English": "ab",
-      "Hindi": "ab",
-      "Math ": "ab",
-      "Science": "ab",
-      "SST": "ab",
+      "         Name": "Pratima ",
+      "English": 16,
+      "Hindi": 17,
+      "Math ": 14,
+      "Science": 14,
+      "SST": 15,
       "Sankrit": "ab",
-      "Computer": "ab",
+      "Computer": 12,
       "GK": "ab",
       "Total Marks": 160,
-      "Obtained Marks": 0
+      "Obtained Marks": 88
     },
     {
       "RollNo": 12,
-      "Name": "Aftab Aalam",
+      "         Name": "Aftab Aalam",
       "English": 12,
       "Hindi": 14,
       "Math ": 15,
@@ -1053,7 +1054,7 @@
     },
     {
       "RollNo": 13,
-      "Name": "Ahana Bano",
+      "         Name": "Ahana Bano",
       "English": 10,
       "Hindi": 15,
       "Math ": 17,
@@ -1067,7 +1068,7 @@
     },
     {
       "RollNo": 14,
-      "Name": "Ayush  Verma",
+      "         Name": "Ayush  Verma",
       "English": "ab",
       "Hindi": "ab",
       "Math ": "ab",
@@ -1081,22 +1082,22 @@
     },
     {
       "RollNo": 15,
-      "Name": "Ayasa Bano",
+      "         Name": "Ayasa Bano",
       "English": "ab",
       "Hindi": "ab",
-      "Math ": "ab",
-      "Science": "ab",
-      "SST": "ab",
-      "Sankrit": 15,
-      "Computer": "ab",
+      "Math ": 0,
+      "Science": 0,
+      "SST": 0,
+      "Sankrit": 0,
+      "Computer": 0,
       "GK": 5,
       "Total Marks": 160,
-      "Obtained Marks": 20
+      "Obtained Marks": 5
     },
     {
       "RollNo": 16,
-      "Name": "Aditya Saroj",
-      "English": 7,
+      "         Name": "Aditya Saroj",
+      "English": 14,
       "Hindi": 10,
       "Math ": 18,
       "Science": 9,
@@ -1105,11 +1106,11 @@
       "Computer": 12,
       "GK": 5,
       "Total Marks": 160,
-      "Obtained Marks": 76
+      "Obtained Marks": 83
     },
     {
       "RollNo": 17,
-      "Name": "Shivam ",
+      "         Name": "Shivam ",
       "English": "ab",
       "Hindi": "ab",
       "Math ": 17,
@@ -1123,7 +1124,7 @@
     },
     {
       "RollNo": 18,
-      "Name": "Veer Bhadra",
+      "         Name": "Veer Bhadra",
       "English": 7,
       "Hindi": 9,
       "Math ": 14,
@@ -1137,7 +1138,7 @@
     },
     {
       "RollNo": 19,
-      "Name": "Shiva Shrivastava",
+      "         Name": "Shiva Shrivastava",
       "English": "ab",
       "Hindi": "ab",
       "Math ": "ab",
@@ -1151,7 +1152,7 @@
     },
     {
       "RollNo": 20,
-      "Name": "Shagun",
+      "         Name": "Shagun",
       "English": "ab",
       "Hindi": "ab",
       "Math ": "ab",
@@ -1167,7 +1168,7 @@
   "5": [
     {
       "RollNo": 1,
-      "Name": "Devansh Chaurasiya",
+      "         Name": "Devansh Chaurasiya",
       "English": 19,
       "Hindi": 15,
       "Math ": 19,
@@ -1181,7 +1182,7 @@
     },
     {
       "RollNo": 2,
-      "Name": "Sahil Singh",
+      "         Name": "Sahil Singh",
       "English": 18,
       "Hindi": 12,
       "Math ": 8,
@@ -1195,7 +1196,7 @@
     },
     {
       "RollNo": 3,
-      "Name": "Anshu Verma",
+      "         Name": "Anshu Verma",
       "English": 15,
       "Hindi": 16,
       "Math ": "ab",
@@ -1209,7 +1210,7 @@
     },
     {
       "RollNo": 4,
-      "Name": "Swarit Srivastava",
+      "         Name": "Swarit Srivastava",
       "English": 20,
       "Hindi": 18,
       "Math ": 20,
@@ -1223,7 +1224,7 @@
     },
     {
       "RollNo": 5,
-      "Name": "Shresth Sahu",
+      "         Name": "Shresth Sahu",
       "English": 6,
       "Hindi": 2,
       "Math ": 18,
@@ -1237,7 +1238,7 @@
     },
     {
       "RollNo": 6,
-      "Name": "Aditi TIwari",
+      "         Name": "Aditi TIwari",
       "English": 16,
       "Hindi": 15,
       "Math ": "ab",
@@ -1251,7 +1252,7 @@
     },
     {
       "RollNo": 7,
-      "Name": "Vaibhav Pandey",
+      "         Name": "Vaibhav Pandey",
       "English": 17,
       "Hindi": 17,
       "Math ": 18,
@@ -1265,7 +1266,7 @@
     },
     {
       "RollNo": 8,
-      "Name": "Shreya Pal",
+      "         Name": "Shreya Pal",
       "English": 13,
       "Hindi": 15,
       "Math ": 10,
@@ -1279,7 +1280,7 @@
     },
     {
       "RollNo": 9,
-      "Name": "Alima Fatima",
+      "         Name": "Alima Fatima",
       "English": 16,
       "Hindi": 17,
       "Math ": "ab",
@@ -1293,7 +1294,7 @@
     },
     {
       "RollNo": 10,
-      "Name": "Ruhi Gupta",
+      "         Name": "Ruhi Gupta",
       "English": 19,
       "Hindi": 18,
       "Math ": "ab",
@@ -1307,7 +1308,7 @@
     },
     {
       "RollNo": 11,
-      "Name": "Divya Gautam",
+      "         Name": "Divya Gautam",
       "English": 13,
       "Hindi": 17,
       "Math ": "ab",
@@ -1321,7 +1322,7 @@
     },
     {
       "RollNo": 12,
-      "Name": "Arhan Khan",
+      "         Name": "Arhan Khan",
       "English": 19,
       "Hindi": 15,
       "Math ": 8,
@@ -1335,7 +1336,7 @@
     },
     {
       "RollNo": 13,
-      "Name": "Chetna Gautam",
+      "         Name": "Chetna Gautam",
       "English": 11,
       "Hindi": 16,
       "Math ": 14,
@@ -1349,7 +1350,7 @@
     },
     {
       "RollNo": 14,
-      "Name": "Jaberiya",
+      "         Name": "Jaberiya",
       "English": 6,
       "Hindi": 15,
       "Math ": 8,
@@ -1363,7 +1364,7 @@
     },
     {
       "RollNo": 15,
-      "Name": "Neha Sharma",
+      "         Name": "Neha Sharma",
       "English": 3,
       "Hindi": 8,
       "Math ": 5,
@@ -1377,7 +1378,7 @@
     },
     {
       "RollNo": 16,
-      "Name": "Nitya Modanwan",
+      "         Name": "Nitya Modanwan",
       "English": 6,
       "Hindi": 15,
       "Math ": 8,
@@ -1391,7 +1392,7 @@
     },
     {
       "RollNo": 17,
-      "Name": "Shiva Yadav",
+      "         Name": "Shiva Yadav",
       "English": 12,
       "Hindi": 13,
       "Math ": "ab",
@@ -1405,7 +1406,7 @@
     },
     {
       "RollNo": 18,
-      "Name": "Komal Kumari",
+      "         Name": "Komal Kumari",
       "English": 4,
       "Hindi": 0,
       "Math ": "ab",
@@ -1419,7 +1420,7 @@
     },
     {
       "RollNo": 19,
-      "Name": "Pooja",
+      "         Name": "Pooja",
       "English": 0,
       "Hindi": 0,
       "Math ": "ab",
@@ -1433,7 +1434,7 @@
     },
     {
       "RollNo": 20,
-      "Name": "Sanjana",
+      "         Name": "Sanjana",
       "English": 5,
       "Hindi": 13,
       "Math ": "ab",
@@ -1447,7 +1448,7 @@
     },
     {
       "RollNo": 21,
-      "Name": "Ayush Dubey",
+      "         Name": "Ayush Dubey",
       "English": "ab",
       "Hindi": "ab",
       "Math ": "ab",
@@ -1461,7 +1462,7 @@
     },
     {
       "RollNo": 22,
-      "Name": "Raman Kumar",
+      "         Name": "Raman Kumar",
       "English": 8,
       "Hindi": "ab",
       "Math ": "ab",
@@ -1472,6 +1473,754 @@
       "GK": "ab",
       "Total Marks": 160,
       "Obtained Marks": 8
+    }
+  ],
+  "6": [
+    {
+      "RollNo": 1,
+      "         Name": "Anshika Pal",
+      "English": 17,
+      "Hindi": 12,
+      "Math ": 18,
+      "Science": 14,
+      "SST": 11,
+      "Sankrit": 17,
+      "Computer": 18,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 127
+    },
+    {
+      "RollNo": 2,
+      "         Name": "Gulam",
+      "English": "ab",
+      "Hindi": "ab",
+      "Math ": 17,
+      "Science": 12,
+      "SST": 2,
+      "Sankrit": 7,
+      "Computer": 12,
+      "GK": 19,
+      "Total Marks": 160,
+      "Obtained Marks": 69
+    },
+    {
+      "RollNo": 3,
+      "         Name": "Arpit",
+      "English": 15,
+      "Hindi": 16,
+      "Math ": 18,
+      "Science": 12,
+      "SST": 8,
+      "Sankrit": 8,
+      "Computer": 16,
+      "GK": 15,
+      "Total Marks": 160,
+      "Obtained Marks": 108
+    },
+    {
+      "RollNo": 4,
+      "         Name": "Suyog",
+      "English": "ab",
+      "Hindi": "ab",
+      "Math ": 11,
+      "Science": 6,
+      "SST": 7,
+      "Sankrit": 8,
+      "Computer": 12,
+      "GK": 16,
+      "Total Marks": 160,
+      "Obtained Marks": 60
+    },
+    {
+      "RollNo": 5,
+      "         Name": "Anjali Vishwakarma",
+      "English": 13,
+      "Hindi": 12,
+      "Math ": "ab",
+      "Science": "ab",
+      "SST": 2,
+      "Sankrit": 13,
+      "Computer": 11,
+      "GK": 9,
+      "Total Marks": 160,
+      "Obtained Marks": 60
+    },
+    {
+      "RollNo": 6,
+      "         Name": "Tanish",
+      "English": 11,
+      "Hindi": 11,
+      "Math ": 16,
+      "Science": 11,
+      "SST": 6,
+      "Sankrit": 13,
+      "Computer": 10,
+      "GK": 18,
+      "Total Marks": 160,
+      "Obtained Marks": 96
+    },
+    {
+      "RollNo": 7,
+      "         Name": "Ananya",
+      "English": 19,
+      "Hindi": 11,
+      "Math ": 20,
+      "Science": 12,
+      "SST": 14,
+      "Sankrit": 19,
+      "Computer": 18,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 133
+    },
+    {
+      "RollNo": 8,
+      "         Name": "Kajal",
+      "English": 16,
+      "Hindi": 13,
+      "Math ": 12,
+      "Science": 11,
+      "SST": 12,
+      "Sankrit": 18,
+      "Computer": 9,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 111
+    },
+    {
+      "RollNo": 9,
+      "         Name": "Subhi Mishra",
+      "English": 13,
+      "Hindi": 15,
+      "Math ": 12,
+      "Science": 10,
+      "SST": 9,
+      "Sankrit": 18,
+      "Computer": 8,
+      "GK": 15,
+      "Total Marks": 160,
+      "Obtained Marks": 100
+    },
+    {
+      "RollNo": 10,
+      "         Name": "Anjali Gautam",
+      "English": 19,
+      "Hindi": 19,
+      "Math ": 20,
+      "Science": 18,
+      "SST": 17,
+      "Sankrit": "ab",
+      "Computer": 18,
+      "GK": "ab",
+      "Total Marks": 160,
+      "Obtained Marks": 111
+    },
+    {
+      "RollNo": 11,
+      "         Name": "Ishita",
+      "English": 8,
+      "Hindi": 12,
+      "Math ": 18,
+      "Science": 8,
+      "SST": 11,
+      "Sankrit": 12,
+      "Computer": 4,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 93
+    },
+    {
+      "RollNo": 12,
+      "         Name": "Lavi",
+      "English": 11,
+      "Hindi": 12,
+      "Math ": 19,
+      "Science": 13,
+      "SST": 7,
+      "Sankrit": 6,
+      "Computer": 14,
+      "GK": 16,
+      "Total Marks": 160,
+      "Obtained Marks": 98
+    },
+    {
+      "RollNo": 13,
+      "         Name": "Anushka",
+      "English": 13,
+      "Hindi": 12,
+      "Math ": 14,
+      "Science": 8,
+      "SST": 7,
+      "Sankrit": 10,
+      "Computer": 8,
+      "GK": 12,
+      "Total Marks": 160,
+      "Obtained Marks": 84
+    },
+    {
+      "RollNo": 14,
+      "         Name": "Ansh",
+      "English": 9,
+      "Hindi": 10,
+      "Math ": 18,
+      "Science": 13,
+      "SST": 8,
+      "Sankrit": 16,
+      "Computer": 14,
+      "GK": 15,
+      "Total Marks": 160,
+      "Obtained Marks": 103
+    },
+    {
+      "RollNo": 15,
+      "         Name": "Shivam",
+      "English": 4,
+      "Hindi": 13,
+      "Math ": 12,
+      "Science": 5,
+      "SST": 2,
+      "Sankrit": 9,
+      "Computer": 14,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 79
+    },
+    {
+      "RollNo": 16,
+      "         Name": "Shrishti",
+      "English": 18,
+      "Hindi": 18,
+      "Math ": 19,
+      "Science": 19,
+      "SST": 8,
+      "Sankrit": "ab",
+      "Computer": 12,
+      "GK": "ab",
+      "Total Marks": 160,
+      "Obtained Marks": 94
+    },
+    {
+      "RollNo": 17,
+      "         Name": "Aradhya",
+      "English": 19,
+      "Hindi": 19,
+      "Math ": 20,
+      "Science": 16,
+      "SST": 12,
+      "Sankrit": 19,
+      "Computer": 19,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 144
+    },
+    {
+      "RollNo": 18,
+      "         Name": "Anuj",
+      "Math ": 8,
+      "Science": 4,
+      "SST": 4,
+      "Sankrit": "ab",
+      "Computer": 7,
+      "GK": "ab",
+      "Total Marks": 160,
+      "Obtained Marks": 23
+    },
+    {
+      "RollNo": 19,
+      "         Name": "Saksham",
+      "English": "ab",
+      "Hindi": "ab",
+      "Math ": 8,
+      "Science": 4,
+      "SST": 4,
+      "Sankrit": "ab",
+      "Computer": "ab",
+      "GK": "ab",
+      "Total Marks": 160,
+      "Obtained Marks": 16
+    },
+    {
+      "RollNo": 20,
+      "         Name": "Ujjair",
+      "English": 16,
+      "Hindi": 16,
+      "Math ": 19,
+      "Science": 12,
+      "SST": 8,
+      "Sankrit": 5,
+      "Computer": 5,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 101
+    },
+    {
+      "RollNo": 21,
+      "         Name": "Avantika",
+      "English": 13,
+      "Hindi": 14,
+      "Math ": 14,
+      "Science": 10,
+      "SST": 12,
+      "Sankrit": "ab",
+      "Computer": "ab",
+      "GK": "ab",
+      "Total Marks": 160,
+      "Obtained Marks": 63
+    },
+    {
+      "RollNo": 6,
+      "         Name": "Anamika",
+      "English": 11,
+      "Hindi": 13,
+      "Math ": 12,
+      "Science": 10,
+      "SST": 12,
+      "Sankrit": "ab",
+      "Computer": 11,
+      "GK": "ab",
+      "Total Marks": 160,
+      "Obtained Marks": 69
+    },
+    {
+      "RollNo": 7,
+      "         Name": "Jigar",
+      "English": 5,
+      "Hindi": 10,
+      "Math ": 12,
+      "Science": 4,
+      "SST": 5,
+      "Sankrit": 12,
+      "Computer": 7,
+      "GK": 10,
+      "Total Marks": 160,
+      "Obtained Marks": 65
+    },
+    {
+      "RollNo": 24,
+      "         Name": "Nashra",
+      "English": 12,
+      "Hindi": 10,
+      "Math ": 13,
+      "Science": 14,
+      "SST": 7,
+      "Sankrit": 12,
+      "Computer": 12,
+      "GK": 14,
+      "Total Marks": 160,
+      "Obtained Marks": 94
+    },
+    {
+      "RollNo": 25,
+      "         Name": "Ranjana",
+      "English": 6,
+      "Hindi": 6,
+      "Math ": 16,
+      "Science": 13,
+      "SST": 6,
+      "Sankrit": "ab",
+      "Computer": 12,
+      "GK": "ab",
+      "Total Marks": 160,
+      "Obtained Marks": 59
+    },
+    {
+      "RollNo": 26,
+      "         Name": "Moh. Shafi",
+      "English": 12,
+      "Hindi": 14,
+      "Math ": "ab",
+      "Science": "ab",
+      "SST": "ab",
+      "Sankrit": 15,
+      "Computer": "ab",
+      "GK": 19,
+      "Total Marks": 160,
+      "Obtained Marks": 60
+    },
+    {
+      "RollNo": 27,
+      "         Name": "Subhi Prajapati",
+      "English": 8,
+      "Hindi": 11,
+      "Math ": 12,
+      "Science": 5,
+      "SST": 10,
+      "Sankrit": "ab",
+      "Computer": 18,
+      "GK": "ab",
+      "Total Marks": 160,
+      "Obtained Marks": 64
+    },
+    {
+      "RollNo": 28,
+      "         Name": "Kishan Gaur",
+      "English": "ab",
+      "Hindi": "ab",
+      "Math ": "ab",
+      "Science": "ab",
+      "SST": "ab",
+      "Sankrit": "ab",
+      "Computer": "ab",
+      "GK": "ab",
+      "Total Marks": 160,
+      "Obtained Marks": 0
+    },
+    {
+      "RollNo": 29,
+      "         Name": "Moh. Taiyab",
+      "English": "ab",
+      "Hindi": "ab",
+      "Math ": "ab",
+      "Science": "ab",
+      "SST": "ab",
+      "Sankrit": "ab",
+      "Computer": "ab",
+      "GK": "ab",
+      "Total Marks": 160,
+      "Obtained Marks": 0
+    },
+    {
+      "RollNo": 30,
+      "         Name": "Adarsh Verma",
+      "English": "ab",
+      "Hindi": "ab",
+      "Math ": "ab",
+      "Science": "ab",
+      "SST": "ab",
+      "Sankrit": "ab",
+      "Computer": "ab",
+      "GK": "ab",
+      "Total Marks": 160,
+      "Obtained Marks": 0
+    }
+  ],
+  "7": [
+    {
+      "Roll no.": 1,
+      "         Name": "Sanskar",
+      "English": "ab",
+      "Hindi": "ab",
+      "Math ": 20,
+      "Science": 19,
+      "SST": 9,
+      "Sankrit": 15,
+      "Computer": 18,
+      "GK": 6,
+      "Total Marks": 160,
+      "Obtained Marks": 87
+    },
+    {
+      "Roll no.": 2
+    },
+    {
+      "Roll no.": 3,
+      "         Name": "Shahin",
+      "English": 17,
+      "Hindi": 13,
+      "Math ": 20,
+      "Science": 16,
+      "SST": 16,
+      "Sankrit": 17,
+      "Computer": 17,
+      "GK": 19,
+      "Total Marks": 160,
+      "Obtained Marks": 135
+    }
+  ],
+  "8": [
+    {
+      "RollNo": 1,
+      "         Name": "Ecchha",
+      "English": 14,
+      "Hindi": 16,
+      "Math ": 16,
+      "Science": 20,
+      "SST": 18,
+      "Sankrit": 18,
+      "Computer": 20,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 142
+    },
+    {
+      "RollNo": 2,
+      "         Name": "Gaurav Pal",
+      "English": 11,
+      "Hindi": 19,
+      "Math ": "A",
+      "Science": "A",
+      "SST": 11,
+      "Sankrit": 13,
+      "Computer": 12,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 86
+    },
+    {
+      "RollNo": 3,
+      "         Name": "Raj Singh",
+      "English": 17,
+      "Hindi": 17,
+      "Math ": "A",
+      "Science": "A",
+      "SST": 13,
+      "Sankrit": 20,
+      "Computer": 14,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 101
+    },
+    {
+      "RollNo": 4,
+      "         Name": "Prince Rawat",
+      "English": "A",
+      "Hindi": "A",
+      "Math ": "A",
+      "Science": "A",
+      "SST": "A",
+      "Sankrit": "A",
+      "Computer": "A",
+      "GK": "A",
+      "Total Marks": 160,
+      "Obtained Marks": 0
+    },
+    {
+      "RollNo": 5,
+      "         Name": "Lakshya Rawat",
+      "English": 18,
+      "Hindi": 18,
+      "Math ": "A",
+      "Science": "A",
+      "SST": 18,
+      "Sankrit": 20,
+      "Computer": 19,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 113
+    },
+    {
+      "RollNo": 6,
+      "         Name": "Mandhavi Shukla",
+      "English": "A",
+      "Hindi": "A",
+      "Math ": "A",
+      "Science": "A",
+      "SST": "A",
+      "Sankrit": "A",
+      "Computer": "A",
+      "GK": "A",
+      "Total Marks": 160,
+      "Obtained Marks": 0
+    },
+    {
+      "RollNo": 7,
+      "         Name": "Priyanshu P. Singh",
+      "English": 19,
+      "Hindi": 19,
+      "Math ": 14,
+      "Science": " ",
+      "SST": 19,
+      "Sankrit": 20,
+      "Computer": 19,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 130
+    },
+    {
+      "RollNo": 8,
+      "         Name": "Jay Gupta",
+      "English": 18,
+      "Hindi": 18,
+      "Math ": 17,
+      "Science": 15,
+      "SST": 15,
+      "Sankrit": 19,
+      "Computer": 19,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 141
+    },
+    {
+      "RollNo": 9,
+      "         Name": "Prattyush Jaiswal",
+      "English": 18,
+      "Hindi": 18,
+      "Math ": "A",
+      "Science": "A",
+      "SST": "A",
+      "Sankrit": 17,
+      "Computer": 14,
+      "GK": 18,
+      "Total Marks": 160,
+      "Obtained Marks": 85
+    },
+    {
+      "RollNo": 10,
+      "         Name": "Kiran Kumari",
+      "English": 17,
+      "Hindi": 17,
+      "Math ": 12,
+      "Science": 16,
+      "Sankrit": 19,
+      "Computer": 20,
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 121
+    },
+    {
+      "RollNo": 11,
+      "         Name": "Ankita Kumari",
+      "English": "A",
+      "Hindi": "A",
+      "Math ": 12,
+      "Science": 14,
+      "SST": "A",
+      "Sankrit": 20,
+      "Computer": "A",
+      "GK": 20,
+      "Total Marks": 160,
+      "Obtained Marks": 66
+    },
+    {
+      "RollNo": 12,
+      "         Name": "Shreya Singh",
+      "English": "A",
+      "Hindi": "A",
+      "Math ": "A",
+      "Science": "A",
+      "SST": "A",
+      "Sankrit": "A",
+      "Computer": "A",
+      "GK": "A",
+      "Total Marks": 160,
+      "Obtained Marks": "A"
+    },
+    {
+      "RollNo": 13,
+      "         Name": "Garima Singh",
+      "English": "A",
+      "Hindi": "A",
+      "Math ": "A",
+      "Science": "A",
+      "SST": "A",
+      "Sankrit": "A",
+      "Computer": "A",
+      "GK": "A",
+      "Total Marks": 160,
+      "Obtained Marks": "A"
+    },
+    {
+      "RollNo": 14,
+      "         Name": "Priya Kori",
+      "English": "A",
+      "Hindi": "A",
+      "Math ": "A",
+      "Science": "A",
+      "SST": "A",
+      "Sankrit": "A",
+      "Computer": "A",
+      "GK": "A",
+      "Total Marks": 160,
+      "Obtained Marks": "A"
+    },
+    {
+      "RollNo": 15,
+      "         Name": "Sumit Patel",
+      "English": "A",
+      "Hindi": "A",
+      "Math ": "A",
+      "Science": "A",
+      "SST": "A",
+      "Sankrit": "A",
+      "Computer": "A",
+      "GK": "A",
+      "Total Marks": 160,
+      "Obtained Marks": "A"
+    },
+    {
+      "RollNo": 16,
+      "         Name": "Karnika Mishra",
+      "English": 12,
+      "Hindi": 19,
+      "Math ": 20,
+      "Science": 20,
+      "SST": 18,
+      "Sankrit": 18,
+      "Computer": 18,
+      "GK": 18,
+      "Total Marks": 160,
+      "Obtained Marks": 143
+    },
+    {
+      "RollNo": 17,
+      "         Name": "Satyam Gupta",
+      "English": 15,
+      "Hindi": 18,
+      "Math ": 14,
+      "Science": 20,
+      "SST": "A",
+      "Sankrit": 18,
+      "Computer": "A",
+      "GK": 14,
+      "Total Marks": 160,
+      "Obtained Marks": 99
+    },
+    {
+      "RollNo": 18,
+      "         Name": "Kashish Gautam",
+      "English": 11,
+      "Hindi": 19,
+      "Math ": 18,
+      "Science": 20,
+      "SST": 11,
+      "Sankrit": 20,
+      "Computer": 18,
+      "GK": 18,
+      "Total Marks": 160,
+      "Obtained Marks": 135
+    },
+    {
+      "RollNo": 19,
+      "         Name": "Himanshu Bind",
+      "English": 8,
+      "Hindi": 7,
+      "Math ": 10,
+      "Science": 20,
+      "SST": 9,
+      "Sankrit": 9,
+      "Computer": 9,
+      "GK": 5,
+      "Total Marks": 160,
+      "Obtained Marks": 77
+    },
+    {
+      "RollNo": 20,
+      "         Name": "Durgesh Singh",
+      "English": "A",
+      "Hindi": "A",
+      "Math ": "A",
+      "Science": "A",
+      "SST": "A",
+      "Sankrit": "A",
+      "Computer": "A",
+      "GK": "A",
+      "Total Marks": 160,
+      "Obtained Marks": 0
+    },
+    {
+      "RollNo": 21,
+      "         Name": "Khushi Gupta",
+      "English": 4,
+      "Hindi": 10,
+      "Math ": 8,
+      "Science": 20,
+      "SST": 13,
+      "Sankrit": 8,
+      "Computer": 12,
+      "GK": 9,
+      "Total Marks": 160,
+      "Obtained Marks": 84
     }
   ],
   "9": [
@@ -1485,7 +2234,8 @@
       "Maths/H. Science": 25,
       "Art ": 65,
       "Total": 225,
-      "Percent": 53.57
+      "Percent": 53.57,
+      "Rank": 2
     },
     {
       "RollNo": 2,
@@ -1509,7 +2259,8 @@
       "Maths/H. Science": 29,
       "Art ": 50,
       "Total": 194,
-      "Percent": 46.19
+      "Percent": 46.19,
+      "Rank": 4
     },
     {
       "RollNo": 4,
@@ -1545,7 +2296,8 @@
       "Maths/H. Science": 63,
       "Art ": 60,
       "Total": 252,
-      "Percent": 61.9
+      "Percent": 61.9,
+      "Rank": 1
     },
     {
       "RollNo": 7,
@@ -1557,7 +2309,8 @@
       "Maths/H. Science": 40,
       "Art ": 50,
       "Total": 211,
-      "Percent": 50.23
+      "Percent": 50.23,
+      "Rank": 2
     },
     {
       "RollNo": 8,
@@ -1655,7 +2408,8 @@
       "SST": 59,
       "Art": 52,
       "Total ": 276,
-      "Percent ": 65.7
+      "Percent ": 65.7,
+      "Rank": "1st"
     },
     {
       "RollNo": 4,
@@ -1715,7 +2469,8 @@
       "SST": 55,
       "Art": 60,
       "Total ": 271,
-      "Percent ": 64.5
+      "Percent ": 64.5,
+      "Rank": "2nd"
     },
     {
       "RollNo": 9,
@@ -1834,7 +2589,8 @@
       "Bio": 84,
       "Physics": 70,
       "Total": 370,
-      "Percentage": 74
+      "Percentage": 74,
+      "Rank": "1st"
     },
     {
       "RollNo": 4,
@@ -1856,7 +2612,8 @@
       "Bio": 86,
       "Physics": 62,
       "Total": 359,
-      "Percentage": 71.8
+      "Percentage": 71.8,
+      "Rank": "2nd"
     },
     {
       "RollNo": 6,
@@ -1891,7 +2648,7 @@
       "H.Science": 55,
       "Civics": 35,
       "Total": 241,
-      "Percent ": 53.55555555555556
+      "Percent ": 53.55555556
     },
     {
       "RollNo": 2,
@@ -1902,7 +2659,8 @@
       "H.Science": 66,
       "Civics": 80,
       "Total": 327,
-      "Percent ": 72.66666666666667
+      "Percent ": 72.66666667,
+      "Rank": 2
     },
     {
       "RollNo": 3,
@@ -1913,7 +2671,8 @@
       "H.Science": 65,
       "Civics": 64,
       "Total": 306,
-      "Percent ": 68
+      "Percent ": 68,
+      "Rank": 3
     },
     {
       "RollNo": 4,
@@ -1924,7 +2683,8 @@
       "H.Science": 80,
       "Civics": 65,
       "Total": 346,
-      "Percent ": 76.88888888888889
+      "Percent ": 76.88888889,
+      "Rank": 1
     },
     {
       "RollNo": 5,
@@ -1935,7 +2695,7 @@
       "Chemistry ": 34,
       "Math": 17,
       "Total": 69,
-      "Percent ": 15.333333333333332
+      "Percent ": 15.33333333
     },
     {
       "RollNo": 6,
@@ -1946,7 +2706,7 @@
       "Chemistry ": 50,
       "Math": 41,
       "Total": 249,
-      "Percent ": 55.333333333333336
+      "Percent ": 55.33333333
     },
     {
       "RollNo": 7,
@@ -1958,7 +2718,7 @@
       "Civics": 44,
       "Math": "v",
       "Total": 185,
-      "Percent ": 41.11111111111111
+      "Percent ": 41.11111111
     },
     {
       "RollNo": 8,
@@ -1969,7 +2729,7 @@
       "Chemistry ": 40,
       "Math": 11,
       "Total": 150,
-      "Percent ": 33.33333333333333
+      "Percent ": 33.33333333
     },
     {
       "RollNo": 9,
@@ -1980,7 +2740,7 @@
       "Chemistry ": 23,
       "Math": 3,
       "Total": 56,
-      "Percent ": 12.444444444444445
+      "Percent ": 12.44444444
     },
     {
       "RollNo": 10,
@@ -1991,7 +2751,7 @@
       "Civics": 56,
       "Art": 60,
       "Total": 199,
-      "Percent ": 44.22222222222222
+      "Percent ": 44.22222222
     },
     {
       "RollNo": 11,
@@ -2002,7 +2762,7 @@
       "H.Science": 39,
       "Civics": 40,
       "Total": 166,
-      "Percent ": 36.888888888888886
+      "Percent ": 36.88888889
     },
     {
       "RollNo": 12,
@@ -2013,7 +2773,7 @@
       "H.Science": 44,
       "Civics": 84,
       "Total": 242,
-      "Percent ": 53.77777777777778
+      "Percent ": 53.77777778
     },
     {
       "RollNo": 13,
@@ -2024,7 +2784,7 @@
       "H.Science": 37,
       "Civics": 67,
       "Total": 221,
-      "Percent ": 49.111111111111114
+      "Percent ": 49.11111111
     },
     {
       "RollNo": 14,
@@ -2036,7 +2796,7 @@
       "Chemistry ": 30,
       "Math": 60,
       "Total": 140,
-      "Percent ": 31.11111111111111
+      "Percent ": 31.11111111
     }
   ],
   "UKG": [
@@ -2053,7 +2813,7 @@
       "GK(O)": 42,
       "Art": 43,
       "Total": 380,
-      "Percentage": 84.44444444444444
+      "Percentage": 84.44444444
     },
     {
       "RollNo": 2,
@@ -2068,7 +2828,7 @@
       "GK(O)": 37,
       "Art": 47,
       "Total": 376,
-      "Percentage": 83.55555555555556
+      "Percentage": 83.55555556
     },
     {
       "RollNo": 3,
@@ -2083,7 +2843,7 @@
       "GK(O)": 38,
       "Art": 40,
       "Total": 335,
-      "Percentage": 74.44444444444444
+      "Percentage": 74.44444444
     },
     {
       "RollNo": 4,
@@ -2098,7 +2858,7 @@
       "GK(O)": 35,
       "Art": 42,
       "Total": 328,
-      "Percentage": 72.88888888888889
+      "Percentage": 72.88888889
     },
     {
       "RollNo": 5,
@@ -2128,7 +2888,7 @@
       "GK(O)": 37,
       "Art": 44,
       "Total": 368,
-      "Percentage": 81.77777777777779
+      "Percentage": 81.77777778
     },
     {
       "RollNo": 7,
@@ -2158,7 +2918,7 @@
       "GK(O)": 38,
       "Art": 42,
       "Total": 343,
-      "Percentage": 76.22222222222223
+      "Percentage": 76.22222222
     },
     {
       "RollNo": 9,
@@ -2173,7 +2933,7 @@
       "GK(O)": 35,
       "Art": 44,
       "Total": 354,
-      "Percentage": 78.66666666666666
+      "Percentage": 78.66666667
     },
     {
       "RollNo": 10,
@@ -2188,7 +2948,7 @@
       "GK(O)": 38,
       "Art": 43,
       "Total": 361,
-      "Percentage": 80.22222222222221
+      "Percentage": 80.22222222
     },
     {
       "RollNo": 11,
@@ -2203,7 +2963,7 @@
       "GK(O)": 37,
       "Art": 42,
       "Total": 334,
-      "Percentage": 74.22222222222223
+      "Percentage": 74.22222222
     },
     {
       "RollNo": 12,
@@ -2233,7 +2993,7 @@
       "GK(O)": 49,
       "Art": 47,
       "Total": 413,
-      "Percentage": 91.77777777777779
+      "Percentage": 91.77777778
     },
     {
       "RollNo": 14,
@@ -2248,7 +3008,7 @@
       "GK(O)": 34,
       "Art": 40,
       "Total": 348,
-      "Percentage": 77.33333333333333
+      "Percentage": 77.33333333
     },
     {
       "RollNo": 15,
@@ -2263,7 +3023,7 @@
       "GK(O)": 37,
       "Art": 41,
       "Total": 332,
-      "Percentage": 73.77777777777777
+      "Percentage": 73.77777778
     },
     {
       "RollNo": 16,
@@ -2278,7 +3038,7 @@
       "GK(O)": 34,
       "Art": 43,
       "Total": 319,
-      "Percentage": 70.88888888888889
+      "Percentage": 70.88888889
     },
     {
       "RollNo": 17,
@@ -2293,7 +3053,7 @@
       "GK(O)": 39,
       "Art": 45,
       "Total": 348,
-      "Percentage": 77.33333333333333
+      "Percentage": 77.33333333
     },
     {
       "RollNo": 18,
@@ -2308,7 +3068,7 @@
       "GK(O)": 38,
       "Art": 40,
       "Total": 358,
-      "Percentage": 79.55555555555556
+      "Percentage": 79.55555556
     },
     {
       "RollNo": 19,
@@ -2323,7 +3083,7 @@
       "GK(O)": 42,
       "Art": 43,
       "Total": 385,
-      "Percentage": 85.55555555555556
+      "Percentage": 85.55555556
     },
     {
       "RollNo": 20,
@@ -2368,7 +3128,7 @@
       "GK(O)": 32,
       "Art": 42,
       "Total": 323,
-      "Percentage": 71.77777777777777
+      "Percentage": 71.77777778
     },
     {
       "RollNo": 23,
@@ -2383,13 +3143,13 @@
       "GK(O)": 47,
       "Art": 45,
       "Total": 427,
-      "Percentage": 94.88888888888889
+      "Percentage": 94.88888889
     }
   ],
   "LKG": [
     {
       "RollNo": 1,
-      "Name": "Divyansh Prasad",
+      "         Name": "Divyansh Prasad",
       "English": "ab",
       "Hindi": "ab",
       "Maths": 12,
@@ -2399,7 +3159,7 @@
     },
     {
       "RollNo": 2,
-      "Name": "Saumya Shukla",
+      "         Name": "Saumya Shukla",
       "English": 18,
       "Hindi": 19,
       "Maths": 20,
@@ -2409,7 +3169,7 @@
     },
     {
       "RollNo": 3,
-      "Name": "Pariniti",
+      "         Name": "Pariniti",
       "English": "ab",
       "Hindi": "ab",
       "Maths": "ab",
@@ -2419,7 +3179,7 @@
     },
     {
       "RollNo": 4,
-      "Name": "Priyanshi Singh",
+      "         Name": "Priyanshi Singh",
       "English": 16,
       "Hindi": 19,
       "Maths": 12,
@@ -2429,7 +3189,7 @@
     },
     {
       "RollNo": 5,
-      "Name": "Jivansh Gaur",
+      "         Name": "Jivansh Gaur",
       "English": "ab",
       "Hindi": 19,
       "Maths": 9,
@@ -2439,7 +3199,7 @@
     },
     {
       "RollNo": 6,
-      "Name": "Abhinav Singh",
+      "         Name": "Abhinav Singh",
       "English": "ab",
       "Hindi": "ab",
       "Maths": "ab",
@@ -2449,7 +3209,7 @@
     },
     {
       "RollNo": 7,
-      "Name": "Rishi Gautam",
+      "         Name": "Rishi Gautam",
       "English": 19,
       "Hindi": 20,
       "Maths": 18,
@@ -2459,7 +3219,7 @@
     },
     {
       "RollNo": 8,
-      "Name": "Ayansh Singh",
+      "         Name": "Ayansh Singh",
       "English": "ab",
       "Hindi": 18,
       "Maths": 18,
@@ -2469,7 +3229,7 @@
     },
     {
       "RollNo": 9,
-      "Name": "Adarsh Prajapati",
+      "         Name": "Adarsh Prajapati",
       "English": 18,
       "Hindi": 16,
       "Maths": 18,
@@ -2479,7 +3239,7 @@
     },
     {
       "RollNo": 10,
-      "Name": "Ayushi Verma",
+      "         Name": "Ayushi Verma",
       "English": "ab",
       "Hindi": "ab",
       "Maths": "ab",
@@ -2489,7 +3249,7 @@
     },
     {
       "RollNo": 11,
-      "Name": "Shivansh Prajapati",
+      "         Name": "Shivansh Prajapati",
       "English": 16,
       "Hindi": 18,
       "Maths": "ab",
@@ -2499,7 +3259,7 @@
     },
     {
       "RollNo": 12,
-      "Name": "Niddhi Prajapati",
+      "         Name": "Niddhi Prajapati",
       "English": 18,
       "Hindi": 20,
       "Maths": 17,
@@ -2509,7 +3269,7 @@
     },
     {
       "RollNo": 13,
-      "Name": "Araman Alam",
+      "         Name": "Araman Alam",
       "English": "ab",
       "Hindi": "ab",
       "Maths": 10,
@@ -2519,7 +3279,7 @@
     },
     {
       "RollNo": 14,
-      "Name": "Shivansh Gupta",
+      "         Name": "Shivansh Gupta",
       "English": "ab",
       "Hindi": "ab",
       "Maths": "ab",
@@ -2529,7 +3289,7 @@
     },
     {
       "RollNo": 15,
-      "Name": "Riddhi Gupta",
+      "         Name": "Riddhi Gupta",
       "English": 9,
       "Hindi": 6,
       "Maths": 13,
@@ -2539,7 +3299,7 @@
     },
     {
       "RollNo": 16,
-      "Name": "Israt",
+      "         Name": "Israt",
       "English": 17,
       "Hindi": 18,
       "Maths": 18,
@@ -2549,7 +3309,7 @@
     },
     {
       "RollNo": 17,
-      "Name": "Prachi Singh",
+      "         Name": "Prachi Singh",
       "English": 18,
       "Hindi": 4,
       "Maths": 16,
@@ -2559,7 +3319,7 @@
     },
     {
       "RollNo": 18,
-      "Name": "Kartik Rana",
+      "         Name": "Kartik Rana",
       "English": 13,
       "Hindi": 10,
       "Maths": 11,
@@ -2569,7 +3329,7 @@
     },
     {
       "RollNo": 19,
-      "Name": "Rudra Pratap Singh",
+      "         Name": "Rudra Pratap Singh",
       "English": 19,
       "Hindi": 16,
       "Maths": 19,
@@ -2579,7 +3339,7 @@
     },
     {
       "RollNo": 20,
-      "Name": "Shivansh Singh",
+      "         Name": "Shivansh Singh",
       "English": 18,
       "Hindi": 18,
       "Maths": 13,
@@ -2589,7 +3349,7 @@
     },
     {
       "RollNo": 21,
-      "Name": "Suraj verma",
+      "         Name": "Suraj verma",
       "English": 18,
       "Hindi": 18,
       "Maths": "ab",
@@ -2599,7 +3359,7 @@
     },
     {
       "RollNo": 22,
-      "Name": "Jayati Dwivedi",
+      "         Name": "Jayati Dwivedi",
       "English": "ab",
       "Hindi": 20,
       "Maths": "ab",
@@ -2609,7 +3369,7 @@
     },
     {
       "RollNo": 23,
-      "Name": "Anant Shukla",
+      "         Name": "Anant Shukla",
       "English": "ab",
       "Hindi": "ab",
       "Maths": 19,
@@ -2619,7 +3379,7 @@
     },
     {
       "RollNo": 24,
-      "Name": "Sahana Bano",
+      "         Name": "Sahana Bano",
       "English": 17,
       "Hindi": 20,
       "Maths": 20,
@@ -2629,7 +3389,7 @@
     },
     {
       "RollNo": 25,
-      "Name": "Moh. Juhaib",
+      "         Name": "Moh. Juhaib",
       "English": 17,
       "Hindi": "ab",
       "Maths": 14,
@@ -2639,7 +3399,7 @@
     },
     {
       "RollNo": 26,
-      "Name": "Chahat Gautam",
+      "         Name": "Chahat Gautam",
       "English": 14,
       "Hindi": 18,
       "Maths": "ab",
@@ -2649,7 +3409,7 @@
     },
     {
       "RollNo": 27,
-      "Name": "Aniket Singh",
+      "         Name": "Aniket Singh",
       "English": 18,
       "Hindi": 19,
       "Maths": 18,
@@ -2659,7 +3419,7 @@
     },
     {
       "RollNo": 28,
-      "Name": "Janvi",
+      "         Name": "Janvi",
       "English": 19,
       "Hindi": "ab",
       "Maths": "ab",
@@ -2669,7 +3429,7 @@
     },
     {
       "RollNo": 29,
-      "Name": "Nandini Maurya",
+      "         Name": "Nandini Maurya",
       "English": 17,
       "Hindi": 20,
       "Maths": 14,
@@ -2679,7 +3439,7 @@
     },
     {
       "RollNo": 30,
-      "Name": "Akashans Patel",
+      "         Name": "Akashans Patel",
       "English": "ab",
       "Hindi": "ab",
       "Maths": "ab",
@@ -2689,7 +3449,7 @@
     },
     {
       "RollNo": 31,
-      "Name": "Noor Bano",
+      "         Name": "Noor Bano",
       "English": "ab",
       "Hindi": "ab",
       "Maths": "ab",
@@ -2699,7 +3459,7 @@
     },
     {
       "RollNo": 32,
-      "Name": "Aradhya Pal",
+      "         Name": "Aradhya Pal",
       "English": 18,
       "Hindi": "ab",
       "Maths": 14,
@@ -2709,7 +3469,7 @@
     },
     {
       "RollNo": 33,
-      "Name": "Iqra Bano",
+      "         Name": "Iqra Bano",
       "English": 11,
       "Hindi": 18,
       "Maths": "ab",
@@ -2718,276 +3478,122 @@
       "Obtained Marks": 39
     }
   ],
-  "6E": [
+  "7E": [
     {
-      "RollNo": 1,
-      "Name": "Anshika",
-      "English": 17,
-      "Hindi": 12,
-      "Math ": 18,
-      "Science": 14,
-      "SST": 11,
-      "Sankrit": 17,
-      "Computer": 18,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 127
-    },
-    {
-      "RollNo": 2,
-      "Name": "Arpit",
-      "English": 15,
+      "__EMPTY": 1,
+      "         Name": "Riya",
+      "English": 18,
       "Hindi": 16,
-      "Math ": 18,
-      "Science": 12,
-      "SST": 8,
-      "Sankrit": 8,
-      "Computer": 16,
-      "GK": 15,
-      "Total Marks": 160,
-      "Obtained Marks": 108
+      "Math ": 20,
+      "Science": 19,
+      "SST": 18,
+      "Sankrit": 20,
+      "Computer": 20,
+      "GK": 20,
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY_1": 151
     },
     {
-      "RollNo": 3,
-      "Name": "Suyog",
-      "English": "ab",
-      "Hindi": "ab",
-      "Math ": 11,
-      "Science": 6,
-      "SST": 7,
-      "Sankrit": 8,
-      "Computer": 12,
-      "GK": 16,
-      "Total Marks": 160,
-      "Obtained Marks": 60
-    },
-    {
-      "RollNo": 4,
-      "Name": "Anjali Vishwakarma",
-      "English": 13,
-      "Hindi": 12,
+      "__EMPTY": 2,
+      "         Name": "Divyanshu",
+      "English": 19,
+      "Hindi": 16,
       "Math ": "ab",
       "Science": "ab",
-      "SST": 2,
-      "Sankrit": 13,
-      "Computer": 11,
-      "GK": 9,
-      "Total Marks": 160,
-      "Obtained Marks": 60
-    },
-    {
-      "RollNo": 5,
-      "Name": "Tanish",
-      "English": 11,
-      "Hindi": 11,
-      "Math ": 16,
-      "Science": 11,
-      "SST": 6,
-      "Sankrit": 13,
-      "Computer": 10,
-      "GK": 18,
-      "Total Marks": 160,
-      "Obtained Marks": 96
-    },
-    {
-      "RollNo": 6,
-      "Name": "Ananya",
-      "English": 19,
-      "Hindi": 11,
-      "Math ": 20,
-      "Science": 12,
-      "SST": 14,
-      "Sankrit": 19,
+      "SST": 18,
+      "Sankrit": 18,
       "Computer": 18,
       "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 133
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY_1": 109
     },
     {
-      "RollNo": 7,
-      "Name": "Kajal",
-      "English": 16,
-      "Hindi": 13,
-      "Math ": 12,
-      "Science": 11,
-      "SST": 12,
-      "Sankrit": 18,
-      "Computer": 9,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 111
-    },
-    {
-      "RollNo": 8,
-      "Name": "Subhi Mishra",
-      "English": 13,
-      "Hindi": 15,
-      "Math ": 12,
-      "Science": 10,
+      "__EMPTY": 3,
+      "         Name": "Sanskar",
+      "English": "ab",
+      "Hindi": "ab",
+      "Math ": 20,
+      "Science": 19,
       "SST": 9,
-      "Sankrit": 18,
-      "Computer": 8,
-      "GK": 15,
-      "Total Marks": 160,
-      "Obtained Marks": 100
+      "Sankrit": 15,
+      "Computer": 18,
+      "GK": 6,
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY_1": 87
     },
     {
-      "RollNo": 9,
-      "Name": "Anjali Gautam",
-      "English": 19,
+      "__EMPTY": 4,
+      "         Name": "Aditya",
+      "English": "ab",
+      "Hindi": "ab",
+      "Math ": 20,
+      "Science": 14,
+      "SST": 15,
+      "Sankrit": 15,
+      "Computer": 17,
+      "GK": 20,
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY_1": 101
+    },
+    {
+      "__EMPTY": 5,
+      "         Name": "Naitik",
+      "English": 18,
+      "Hindi": 12,
+      "Math ": 20,
+      "Science": 12,
+      "SST": 18,
+      "Sankrit": 12,
+      "Computer": 19,
+      "GK": 15,
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY_1": 126
+    },
+    {
+      "__EMPTY": 6,
+      "         Name": "Gauravi",
+      "English": 9,
+      "Hindi": 15,
+      "Math ": 19,
+      "Science": 17,
+      "SST": 12,
+      "Sankrit": 14,
+      "Computer": 11,
+      "GK": 18,
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY_1": 115
+    },
+    {
+      "__EMPTY": 7,
+      "         Name": "Shahin",
+      "English": 17,
+      "Hindi": 13,
+      "Math ": 20,
+      "Science": 16,
+      "SST": 16,
+      "Sankrit": 17,
+      "Computer": 17,
+      "GK": 19,
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY_1": 135
+    },
+    {
+      "__EMPTY": 8,
+      "         Name": "Nidhi",
+      "English": 18,
       "Hindi": 19,
       "Math ": 20,
       "Science": 18,
-      "SST": 17,
-      "Sankrit": "ab",
-      "Computer": 18,
-      "GK": "ab",
-      "Total Marks": 160,
-      "Obtained Marks": 111
-    },
-    {
-      "RollNo": 10,
-      "Name": "Ishita",
-      "English": 8,
-      "Hindi": 12,
-      "Math ": 18,
-      "Science": 8,
-      "SST": 11,
-      "Sankrit": 12,
-      "Computer": 4,
+      "SST": 18,
+      "Sankrit": 20,
+      "Computer": 20,
       "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 93
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY_1": 153
     },
     {
-      "RollNo": 11,
-      "Name": "Lavi",
-      "English": 11,
-      "Hindi": 12,
-      "Math ": 19,
-      "Science": 13,
-      "SST": 7,
-      "Sankrit": 6,
-      "Computer": 14,
-      "GK": 16,
-      "Total Marks": 160,
-      "Obtained Marks": 98
-    },
-    {
-      "RollNo": 12,
-      "Name": "Ansh",
-      "English": 9,
-      "Hindi": 10,
-      "Math ": 18,
-      "Science": 13,
-      "SST": 8,
-      "Sankrit": 16,
-      "Computer": 14,
-      "GK": 15,
-      "Total Marks": 160,
-      "Obtained Marks": 103
-    },
-    {
-      "RollNo": 13,
-      "Name": "Aradhya",
-      "English": 19,
-      "Hindi": 19,
-      "Math ": 20,
-      "Science": 16,
-      "SST": 12,
-      "Sankrit": 19,
-      "Computer": 19,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 144
-    },
-    {
-      "RollNo": 14,
-      "Name": "Saksham",
-      "English": "ab",
-      "Hindi": "ab",
-      "Math ": 8,
-      "Science": 4,
-      "SST": 4,
-      "Sankrit": "ab",
-      "Computer": "ab",
-      "GK": "ab",
-      "Total Marks": 160,
-      "Obtained Marks": 16
-    },
-    {
-      "RollNo": 15,
-      "Name": "Ujjair",
-      "English": 16,
-      "Hindi": 16,
-      "Math ": 19,
-      "Science": 12,
-      "SST": 8,
-      "Sankrit": 5,
-      "Computer": 5,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 101
-    },
-    {
-      "RollNo": 16,
-      "Name": "Avantika",
-      "English": 13,
-      "Hindi": 14,
-      "Math ": 14,
-      "Science": 10,
-      "SST": 12,
-      "Sankrit": "ab",
-      "Computer": "ab",
-      "GK": "ab",
-      "Total Marks": 160,
-      "Obtained Marks": 63
-    },
-    {
-      "RollNo": 17,
-      "Name": "Nashra",
-      "English": 12,
-      "Hindi": 10,
-      "Math ": 13,
-      "Science": 14,
-      "SST": 7,
-      "Sankrit": 12,
-      "Computer": 12,
-      "GK": 14,
-      "Total Marks": 160,
-      "Obtained Marks": 94
-    },
-    {
-      "RollNo": 18,
-      "Name": "Ranjana",
-      "English": 6,
-      "Hindi": 6,
-      "Math ": 16,
-      "Science": 13,
-      "SST": 6,
-      "Sankrit": "ab",
-      "Computer": 12,
-      "GK": "ab",
-      "Total Marks": 160,
-      "Obtained Marks": 59
-    },
-    {
-      "RollNo": 19,
-      "Name": "Subhi Prajapati",
-      "English": 8,
-      "Hindi": 11,
-      "Math ": 12,
-      "Science": 5,
-      "SST": 10,
-      "Sankrit": "ab",
-      "Computer": 18,
-      "GK": "ab",
-      "Total Marks": 160,
-      "Obtained Marks": 64
-    },
-    {
-      "RollNo": 20,
-      "Name": "Kishan Gaur",
+      "__EMPTY": 9,
+      "         Name": "Aryan",
       "English": "ab",
       "Hindi": "ab",
       "Math ": "ab",
@@ -2996,14 +3602,28 @@
       "Sankrit": "ab",
       "Computer": "ab",
       "GK": "ab",
-      "Total Marks": 160,
-      "Obtained Marks": 0
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY_1": 0
+    },
+    {
+      "__EMPTY": 10,
+      "         Name": "Shikha",
+      "English": 17,
+      "Hindi": 10,
+      "Math ": 20,
+      "Science": 19,
+      "SST": 19,
+      "Sankrit": 15,
+      "Computer": 17,
+      "GK": 20,
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY_1": 137
     }
   ],
   "6H": [
     {
       "RollNo": 1,
-      "Name": "Gulam",
+      "         Name": "Gulam",
       "English": "ab",
       "Hindi": "ab",
       "Math ": 17,
@@ -3017,7 +3637,7 @@
     },
     {
       "RollNo": 2,
-      "Name": "Anushka",
+      "         Name": "Anushka",
       "English": 13,
       "Hindi": 12,
       "Math ": 14,
@@ -3031,7 +3651,7 @@
     },
     {
       "RollNo": 3,
-      "Name": "Shivam",
+      "         Name": "Shivam",
       "English": 4,
       "Hindi": 13,
       "Math ": 12,
@@ -3045,7 +3665,7 @@
     },
     {
       "RollNo": 4,
-      "Name": "Shrishti",
+      "         Name": "Shrishti",
       "English": 18,
       "Hindi": 18,
       "Math ": 19,
@@ -3059,7 +3679,7 @@
     },
     {
       "RollNo": 5,
-      "Name": "Anuj",
+      "         Name": "Anuj",
       "Math ": 8,
       "Science": 4,
       "SST": 4,
@@ -3071,7 +3691,7 @@
     },
     {
       "RollNo": 6,
-      "Name": "Anamika",
+      "         Name": "Anamika",
       "English": 11,
       "Hindi": 13,
       "Math ": 12,
@@ -3085,7 +3705,7 @@
     },
     {
       "RollNo": 7,
-      "Name": "Jigar",
+      "         Name": "Jigar",
       "English": 5,
       "Hindi": 10,
       "Math ": 12,
@@ -3099,7 +3719,7 @@
     },
     {
       "RollNo": 8,
-      "Name": "Moh. Shafi",
+      "         Name": "Moh. Shafi",
       "English": 12,
       "Hindi": 14,
       "Math ": "ab",
@@ -3113,7 +3733,7 @@
     },
     {
       "RollNo": 9,
-      "Name": "Moh. Taiyab",
+      "         Name": "Moh. Taiyab",
       "English": "ab",
       "Hindi": "ab",
       "Math ": "ab",
@@ -3127,7 +3747,7 @@
     },
     {
       "RollNo": 10,
-      "Name": "Adarsh Verma",
+      "         Name": "Adarsh Verma",
       "English": "ab",
       "Hindi": "ab",
       "Math ": "ab",
@@ -3138,311 +3758,12 @@
       "GK": "ab",
       "Total Marks": 160,
       "Obtained Marks": 0
-    }
-  ],
-  "7E": [
-    {
-      "RollNo": 1,
-      "Name": "Riya",
-      "English": 18,
-      "Hindi": 16,
-      "Math ": 20,
-      "Science": 19,
-      "SST": 18,
-      "Sankrit": 20,
-      "Computer": 20,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 151
-    },
-    {
-      "RollNo": 2,
-      "Name": "Divyanshu",
-      "English": 19,
-      "Hindi": 16,
-      "Math ": "ab",
-      "Science": "ab",
-      "SST": 18,
-      "Sankrit": 18,
-      "Computer": 18,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 109
-    },
-    {
-      "RollNo": 3,
-      "Name": "Aditya",
-      "English": "ab",
-      "Hindi": "ab",
-      "Math ": 20,
-      "Science": 14,
-      "SST": 15,
-      "Sankrit": 15,
-      "Computer": 17,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 101
-    },
-    {
-      "RollNo": 4,
-      "Name": "Naitik",
-      "English": 18,
-      "Hindi": 12,
-      "Math ": 20,
-      "Science": 12,
-      "SST": 18,
-      "Sankrit": 12,
-      "Computer": 19,
-      "GK": 15,
-      "Total Marks": 160,
-      "Obtained Marks": 126
-    },
-    {
-      "RollNo": 5,
-      "Name": "Nidhi",
-      "English": 18,
-      "Hindi": 19,
-      "Math ": 20,
-      "Science": 18,
-      "SST": 18,
-      "Sankrit": 20,
-      "Computer": 20,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 153
-    },
-    {
-      "RollNo": 6,
-      "Name": "Aryan",
-      "English": "ab",
-      "Hindi": "ab",
-      "Math ": "ab",
-      "Science": "ab",
-      "SST": "ab",
-      "Sankrit": "ab",
-      "Computer": "ab",
-      "GK": "ab",
-      "Total Marks": 160,
-      "Obtained Marks": 0
-    },
-    {
-      "RollNo": 7,
-      "Name": "Shikha",
-      "English": 17,
-      "Hindi": 10,
-      "Math ": 20,
-      "Science": 19,
-      "SST": 19,
-      "Sankrit": 15,
-      "Computer": 17,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 137
-    }
-  ],
-  "7H": [
-    {
-      "RollNo": 1,
-      "Name": "Sanskar",
-      "English": "ab",
-      "Hindi": "ab",
-      "Math ": 20,
-      "Science": 19,
-      "SST": 9,
-      "Sankrit": 15,
-      "Computer": 18,
-      "GK": 6,
-      "Total Marks": 160,
-      "Obtained Marks": 87
-    },
-    {
-      "RollNo": 2,
-      "Name": "Gauravi",
-      "English": 9,
-      "Hindi": 15,
-      "Math ": 19,
-      "Science": 17,
-      "SST": 12,
-      "Sankrit": 14,
-      "Computer": 11,
-      "GK": 18,
-      "Total Marks": 160,
-      "Obtained Marks": 115
-    },
-    {
-      "RollNo": 3,
-      "Name": "Shahin",
-      "English": 17,
-      "Hindi": 13,
-      "Math ": 20,
-      "Science": 16,
-      "SST": 16,
-      "Sankrit": 17,
-      "Computer": 17,
-      "GK": 19,
-      "Total Marks": 160,
-      "Obtained Marks": 135
-    }
-  ],
-  "8E": [
-    {
-      "RollNo": 1,
-      "Name": "Ecchha",
-      "English": 14,
-      "Hindi": 16,
-      "Math ": 16,
-      "Science": 20,
-      "SST": 18,
-      "Sankrit": 18,
-      "Computer": 20,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 142
-    },
-    {
-      "RollNo": 2,
-      "Name": "Gaurav Pal",
-      "English": 11,
-      "Hindi": 19,
-      "Math ": "A",
-      "Science": "A",
-      "SST": 11,
-      "Sankrit": 13,
-      "Computer": 12,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 86
-    },
-    {
-      "RollNo": 3,
-      "Name": "Raj Singh",
-      "English": 17,
-      "Hindi": 17,
-      "Math ": "A",
-      "Science": "A",
-      "SST": 13,
-      "Sankrit": 20,
-      "Computer": 14,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 101
-    },
-    {
-      "RollNo": 4,
-      "Name": "Prince",
-      "English": "A",
-      "Hindi": "A",
-      "Math ": "A",
-      "Science": "A",
-      "SST": "A",
-      "Sankrit": "A",
-      "Computer": "A",
-      "GK": "A",
-      "Total Marks": 160,
-      "Obtained Marks": 0
-    },
-    {
-      "RollNo": 5,
-      "Name": "Lakshya Rawat",
-      "English": 18,
-      "Hindi": 18,
-      "Math ": "A",
-      "Science": "A",
-      "SST": 18,
-      "Sankrit": 20,
-      "Computer": 19,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 113
-    },
-    {
-      "RollNo": 6,
-      "Name": "Mandhavi Shukla",
-      "English": "A",
-      "Hindi": "A",
-      "Math ": "A",
-      "Science": "A",
-      "SST": "A",
-      "Sankrit": "A",
-      "Computer": "A",
-      "GK": "A",
-      "Total Marks": 160,
-      "Obtained Marks": 0
-    },
-    {
-      "RollNo": 7,
-      "Name": "Priyanshu P. Singh",
-      "English": 19,
-      "Hindi": 19,
-      "Math ": 14,
-      "Science": " ",
-      "SST": 19,
-      "Sankrit": 20,
-      "Computer": 19,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 130
-    },
-    {
-      "RollNo": 8,
-      "Name": "Jay Gupta",
-      "English": 18,
-      "Hindi": 18,
-      "Math ": 17,
-      "Science": 15,
-      "SST": 15,
-      "Sankrit": 19,
-      "Computer": 19,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 141
-    },
-    {
-      "RollNo": 9,
-      "Name": "Prattyush Jaiswal",
-      "English": 18,
-      "Hindi": 18,
-      "Math ": "A",
-      "Science": "A",
-      "SST": "A",
-      "Sankrit": 17,
-      "Computer": 14,
-      "GK": 18,
-      "Total Marks": 160,
-      "Obtained Marks": 85
-    },
-    {
-      "RollNo": 10,
-      "Name": "Kiran Kumari",
-      "English": 17,
-      "Hindi": 17,
-      "Math ": 12,
-      "Science": 16,
-      "Sankrit": 19,
-      "Computer": 20,
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 121
-    },
-    {
-      "RollNo": 11,
-      "Name": "Ankita Kumari",
-      "English": "A",
-      "Hindi": "A",
-      "Math ": 12,
-      "Science": 14,
-      "SST": "A",
-      "Sankrit": 20,
-      "Computer": "A",
-      "GK": 20,
-      "Total Marks": 160,
-      "Obtained Marks": 66
     }
   ],
   "8H": [
     {
       "RollNo": 1,
-      "Name": "Karnika Mishra",
+      "         Name": "Karnika Mishra",
       "English": 12,
       "Hindi": 19,
       "Math ": 20,
@@ -3451,12 +3772,12 @@
       "Sankrit": 18,
       "Computer": 18,
       "GK": 18,
-      "Total Marks": 160,
-      "Obtained Marks": 143
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY": 143
     },
     {
       "RollNo": 2,
-      "Name": "Satyam Gupta",
+      "         Name": "Satyam Gupta",
       "English": 15,
       "Hindi": 18,
       "Math ": 14,
@@ -3465,12 +3786,12 @@
       "Sankrit": 18,
       "Computer": "A",
       "GK": 14,
-      "Total Marks": 160,
-      "Obtained Marks": 99
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY": 99
     },
     {
       "RollNo": 3,
-      "Name": "Khushbu Gupta",
+      "         Name": "Khushbu Gupta",
       "English": "A",
       "Hindi": "A",
       "Math ": "A",
@@ -3479,12 +3800,12 @@
       "Sankrit": "A",
       "Computer": "A",
       "GK": "A",
-      "Total Marks": 160,
-      "Obtained Marks": 0
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY": 0
     },
     {
       "RollNo": 4,
-      "Name": "Kashish Gautam",
+      "         Name": "Kashish Gautam",
       "English": 11,
       "Hindi": 19,
       "Math ": 18,
@@ -3493,12 +3814,12 @@
       "Sankrit": 20,
       "Computer": 18,
       "GK": 18,
-      "Total Marks": 160,
-      "Obtained Marks": 135
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY": 135
     },
     {
       "RollNo": 5,
-      "Name": "Himanshu Bind",
+      "         Name": "Himanshu Bind",
       "English": 8,
       "Hindi": 7,
       "Math ": 10,
@@ -3507,12 +3828,12 @@
       "Sankrit": 9,
       "Computer": 9,
       "GK": 5,
-      "Total Marks": 160,
-      "Obtained Marks": 77
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY": 77
     },
     {
       "RollNo": 6,
-      "Name": "Durgesh Singh",
+      "         Name": "Durgesh Singh",
       "English": "A",
       "Hindi": "A",
       "Math ": "A",
@@ -3521,12 +3842,12 @@
       "Sankrit": "A",
       "Computer": "A",
       "GK": "A",
-      "Total Marks": 160,
-      "Obtained Marks": 0
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY": 0
     },
     {
       "RollNo": 7,
-      "Name": "Khushi Gupta",
+      "         Name": "Khushi Gupta",
       "English": 4,
       "Hindi": 10,
       "Math ": 8,
@@ -3535,12 +3856,12 @@
       "Sankrit": 8,
       "Computer": 12,
       "GK": 9,
-      "Total Marks": 160,
-      "Obtained Marks": 84
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY": 84
     },
     {
       "RollNo": 8,
-      "Name": "Garima Singh",
+      "         Name": "Garima Singh",
       "English": "A",
       "Hindi": "A",
       "Math ": "A",
@@ -3549,12 +3870,12 @@
       "Sankrit": "A",
       "Computer": "A",
       "GK": "A",
-      "Total Marks": 160,
-      "Obtained Marks": "A"
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY": "A"
     },
     {
       "RollNo": 9,
-      "Name": "Shreya Singh",
+      "         Name": "Shreya Singh",
       "English": "A",
       "Hindi": "A",
       "Math ": "A",
@@ -3563,12 +3884,12 @@
       "Sankrit": "A",
       "Computer": "A",
       "GK": "A",
-      "Total Marks": 160,
-      "Obtained Marks": "A"
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY": "A"
     },
     {
       "RollNo": 10,
-      "Name": "Priya Kori",
+      "         Name": "Priya Kori",
       "English": "A",
       "Hindi": "A",
       "Math ": "A",
@@ -3577,12 +3898,12 @@
       "Sankrit": "A",
       "Computer": "A",
       "GK": "A",
-      "Total Marks": 160,
-      "Obtained Marks": "A"
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY": "A"
     },
     {
       "RollNo": 11,
-      "Name": "Sumit Patel",
+      "         Name": "Sumit Patel",
       "English": "A",
       "Hindi": "A",
       "Math ": "A",
@@ -3591,8 +3912,22 @@
       "Sankrit": "A",
       "Computer": "A",
       "GK": "A",
-      "Total Marks": 160,
-      "Obtained Marks": "A"
+      "Total Marks\tObtained Marks\r\n160\t120": 160,
+      "__EMPTY": "A"
+    },
+    {
+      "         Name": 2,
+      "English": "Satyam Gupta",
+      "Hindi": 15,
+      "Math ": 18,
+      "Science": 14,
+      "SST": 20,
+      "Sankrit": "A",
+      "Computer": 18,
+      "GK": "A",
+      "Total Marks\tObtained Marks\r\n160\t120": 14,
+      "__EMPTY": 160,
+      "__EMPTY_1": 99
     }
   ]
 }
